@@ -19,5 +19,8 @@
   "homepage": "https://github.com/osha7/typescript-tutorial-academind#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "typescript": "^4.2.4"
   }
 }
