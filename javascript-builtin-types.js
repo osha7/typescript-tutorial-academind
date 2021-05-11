@@ -1,3 +1,4 @@
+"use strict";
 // function add(n1, n2) {
 //     return n1 + n2;  // will concatinate if either of our variables is a string
 // }

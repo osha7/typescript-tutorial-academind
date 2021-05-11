@@ -1,3 +1,4 @@
+"use strict";
 // const person = {
 //     name: 'Osha',
 //     age: 43
@@ -62,6 +63,8 @@ var Role;
     Role[Role["AUTHOR"] = 2] = "AUTHOR";
 })(Role || (Role = {}));
 ; // with enums values are typically all uppercase
+// enum Role { ADMIN = 5, READ_ONLY, AUTHOR };
+// enum Role { ADMIN = 'ADMIN', READ_ONLY = 100, AUTHOR = 200 };
 var person = {
     name: 'Osha',
     age: 43,

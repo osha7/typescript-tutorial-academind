@@ -1,3 +1,4 @@
+"use strict";
 var userInput; // we don't know what the user will enter (string, number, etc)
 var userName;
 userInput = 5;
